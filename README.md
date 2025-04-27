@@ -1,17 +1,14 @@
-# Face Recognition Project
+# Face Detection using OpenCV
 
 ## Description
-CV CS UGM 
-Sharla Nur Raissa (23/516320/PA/22093)
-
-This project implements face recognition using the Eigenface method with Principal Component Analysis (PCA). It detects faces, extracts features, and classifies them. The system also supports real-time face detection visualization. I will show how to run the code down below!
+This project implements real-time face detection using OpenCV's Haarcascade Classifier. It detects faces from images and webcam in real-time and draws bounding boxes around them.
 
 ## How to Run
-1. The repository:
+
+1. Clone this repository:
     ```bash
     git clone https://github.com/sharlaa/FaceRecognition.git
-cd FaceRecognition
-
+    cd FaceRecognition
     ```
 
 2. Install required libraries:
@@ -20,31 +17,26 @@ cd FaceRecognition
     ```
 
 3. Open and run the notebook:
-    ```bash
-    jupyter notebook face detection cv.ipynb
-    ```
+    - `face detection cv.ipynb`
 
 4. Steps inside the notebook:
-    - Load and expand dataset
-    - Train Eigenface model
-    - Visualize eigenfaces
-    - Perform real-time face detection and recognition
+    - Load face detection model (Haarcascade)
+    - Run detection on sample images
+    - Perform real-time detection using webcam
 
 ## Requirements
 - Python 3.8+
 - OpenCV
-- scikit-learn
-- matplotlib
-- numpy
+- Numpy
+- Matplotlib
 
-(Or simply install via `requirements.txt`)
+(Install all dependencies via `requirements.txt`)
 
 ## Example Outputs
-- Eigenfaces visualization:
-  ![Eigenfaces Screenshot](screenshots/eigenfaces.png)
-
-- Real-time face detection:
-  ![Real-time Detection](screenshots/realtime_detection.png)
+- Real-time Face Detection:
+  ![Webcam Detection Example](screenshots/detection_sharla_raissa.png)
+  ![Webcam Detection Example](screenshots/detection_george.png)
 
 ## Repository Link
-[Insert your GitHub Repo link here]
+[Insert your GitHub Repo Link here]
+
