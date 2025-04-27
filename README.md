@@ -3,7 +3,7 @@
 ## Description
 CV CS UGM
 Sharla Nur Raissa (23/516320/PA/22093)
-This project implements real-time face detection using OpenCV's Haarcascade Classifier. It detects faces from images and webcam in real-time and draws bounding boxes around them. I will explain how to run down below!
+This project implements real-time face detection using OpenCV's Haarcascade Classifier. It detects faces from images and webcam in real-time and draws bounding boxes around them. As a part of the assignment, i added new data of Carlos Moya (from the original dataset), Nabila Yumna (My friend), and my face. I added my friend as one of the two new individual since i thought it will be nice to try it live with them later on in class! I will explain how to run down below.
 
 ## How to Run
 
@@ -40,5 +40,6 @@ This project implements real-time face detection using OpenCV's Haarcascade Clas
   ![Webcam Detection Example](screenshots/detection_george.png)
 
 ## Repository Link
-[Insert your GitHub Repo Link here]
+https://github.com/sharlaa/FaceRecognition
+
 
