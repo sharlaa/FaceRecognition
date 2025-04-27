@@ -1,7 +1,9 @@
 # Face Detection using OpenCV
 
 ## Description
-This project implements real-time face detection using OpenCV's Haarcascade Classifier. It detects faces from images and webcam in real-time and draws bounding boxes around them.
+CV CS UGM
+Sharla Nur Raissa (23/516320/PA/22093)
+This project implements real-time face detection using OpenCV's Haarcascade Classifier. It detects faces from images and webcam in real-time and draws bounding boxes around them. I will explain how to run down below!
 
 ## How to Run
 
