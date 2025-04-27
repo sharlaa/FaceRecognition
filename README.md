@@ -9,8 +9,9 @@ This project implements face recognition using the Eigenface method with Princip
 ## How to Run
 1. The repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/sharlaa/FaceRecognition.git
+cd FaceRecognition
+
     ```
 
 2. Install required libraries:
@@ -20,7 +21,7 @@ This project implements face recognition using the Eigenface method with Princip
 
 3. Open and run the notebook:
     ```bash
-    jupyter notebook eigenface_recognition.ipynb
+    jupyter notebook face detection cv.ipynb
     ```
 
 4. Steps inside the notebook:
